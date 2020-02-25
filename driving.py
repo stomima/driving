@@ -15,5 +15,9 @@ if country == '台灣':
 		print ('你可以考駕照')
 	else :
 		print ('毛長齊再來')
-
+elif country == '美國': # 使用elif 不是if
+	if age >= 16 :
+		print ('Driving License is avaiale')
+	else :
+		print ('you are too young')
      
