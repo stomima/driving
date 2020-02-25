@@ -20,4 +20,7 @@ elif country == '美國': # 使用elif 不是if
 		print ('Driving License is avaiale')
 	else :
 		print ('you are too young')
+else:
+	print('你只能輸入台灣或美國喔')
+
      
